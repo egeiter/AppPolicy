@@ -1,0 +1,109 @@
+SMARTBRAIN – TERMS OF USE AND DATA PROTECTION STATEMENT
+
+By using the SmartBrain smartphone app, you agree to the following terms and conditions:
+
+1 PURPOSE OF SMARTBRAIN
+The SmartBrain smartphone app is developed by the University of Basel and aims at training
+working memory.
+
+2 TARGET AUDIENCE
+
+2.1 FREE USERS
+SmartBrain can be used by everyone that wants to train working memory, specifically people that
+experience difficulties with their working memory. For this use case, no Study-Code needs to be
+entered in the app and a randomized Study-Code will be generated automatically. App users can
+freely choose a username to personalize the app experience. This username is stored only locally
+on the device and is not transferred to the database.
+
+2.2 STUDY PARTICIPANTS
+SmartBrain is intended to be used in scientific studies to investigate the trainings efficacy.
+Thus, it will be used by participants of ongoing studies. Study participants will receive an
+anonymized Study-Code from the study personnel which needs to be entered at first launch of
+the app. This Study-Code is stored locally on the device and is also transferred to the database.
+It allows an anonymous storage of the data which can be used for study purposes. In addition,
+participants can freely choose a username which is used for personalization of the app
+experience.
+
+
+3 TECHNICAL REQUIREMENTS FOR USING SMARTBRAIN
+The SmartBrain smartphone app is designed for Android and iOS smartphones.
+Minimum required Android version: ANDROID 5.0 (LOLLIPOP)
+
+4 HOW DOES SMARTBRAIN TRAINING WORK?
+The app users will have the option to choose from three different tasks that aim to train
+working memory. The first tasks trains the auditive component, the second the visual
+component and the third the spatial component of working memory. All tasks include distracting
+stimuli presented within the tasks. All tasks are adaptive, meaning they increase or decrease
+in difficulty according to the user's performance. This allows a training on the correct
+difficulty level for each person. The duration of each task can be set individually, so that
+the working memory components can be trained according to the individual needs.
+
+5 DISCLAIMER
+You use SmartBrain and all its content at your own risk. Neither the University of Basel nor
+any other person or institution involved in the development, creation, or provision of this
+smartphone app is liable for any direct, indirect or accidental damage resulting from access,
+use or inability to use this smartphone app, or any errors or omissions in its content.
+
+6 DATA PROTECTION
+
+6.1 THIRD PARTY SERVICES TO ACCESS SMARTBRAIN
+SmartBrain is distributed via the Google Play Store for Android phones and via the Apple
+App Store for iOS phones. Registration at the respective distributor's app store is required
+according to their terms and conditions (Apple Inc., Cupertino, USA, for iOS and Google Limited,
+Dublin, Ireland and/or Google LLC, Mountain View, USA for Android devices).
+The Google Play Store privacy policy and additional user terms and conditions can be found at:
+https://play.google.com/intl/ALL_ch/about/play-terms/
+Apple's App Store privacy policy and additional terms and services can be found at:
+https://www.apple.com/chde/legal/internet-services/itunes/chde/terms.html
+
+6.2 DATA PROCESSING WHILE USING THE APP FEATURES AND DATA TRANSFER
+SmartBrain only stores anonymized data which can not be linked back to the person using
+the app. The following data will be collected:
+- Anonymous Study-Code (only if participation in study)
+- Information about training progress (reaction times, which button was clicked in which
+  sequence, accuracy of answers, which distractor and items were shown and which language
+  is used)
+These data are transferred to our instance of Google Firebase from where they are downloaded
+regularly to local servers of the University of Basel (Switzerland).
+The user terms and conditions for Google Firebase can be found at:
+https://firebase.google.com/support/privacy.
+The collected data will not be shared with any further third party.
+
+6.3 TECHNICAL PERMISSIONS FOR SMARTBRAIN ON YOUR SMARTPHONE
+The required access permissions for SmartBrain have been reduced to a minimum. The app needs
+permission to access the internet to transfer the anonymous training performance data.
+Access to local phone storage is required to temporarily save the collected data and display
+daily performance statistics. SmartBrain has no access to any private data on the smartphone. 
+
+7 COPYRIGHT
+SmartBrain and its content (in particular, stimuli items, design, logos) are protected by
+copyright and must be used only for private, non-commercial purposes. Any requests for consent
+must be submitted in advance in writing to the University of Basel, Transfaculty Research
+Platform Molecular and Cognitive Neurosciences (MCN).
+
+8 COSTS
+SmartBrain is provided free of charge. An internet connection is required for certain features
+(opening links to external websites and transfer of the anonymized user data). This may incur
+connection fees depending on your contract with your mobile provider.
+
+9 APPLICABLE LAW AND PLACE OF JURISDICTION
+This user agreement is subject to Swiss law. The place of jurisdiction is Basel, Switzerland.
+
+10 PRIVACY POLICY AMENDMENTS
+The University of Basel reserves the right to modify this Privacy Policy at any time if
+necessary. This Privacy Policy was last updated on 11.12.2023.
+
+11 WHO IS RESPONSIBLE FOR THE SMARTBRAIN APP
+University of Basel, Transfaculty Research Platform, Molecular and Cognitive Neurosciences
+(MCN, www.mcn.unibas.ch)
+
+12 CONTACT US
+Contact us if you have questions, suggestions or if you encounter issues at:
+SmartBrainBasel (at) gmail.com
+
+13 DELETE COLLECTED DATA
+In case you want us to delete all your collected data, contact us via email at:
+SmartBrainBasel (at) gmail.com
+Please include the Study-Code (manually entered or automatically generated) which can be
+found on the Info Screen in the app. Without the Study-Code we may not be able to track
+and delete your data in the database.
